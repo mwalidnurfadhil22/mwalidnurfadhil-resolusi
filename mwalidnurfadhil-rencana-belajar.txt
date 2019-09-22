@@ -2,5 +2,9 @@ RENCANA BELAJAR MWALIDNURFADHIL
 
 - adobe photoshop
   * editing 2 foto jadi 1
+   ^ gradasi warna
+   ^ mengambil bagian tertentu pada gambar
 - adobe animate
 - mengedit video
+  * menambahkan gambar PNG
+- 
